@@ -1,5 +1,7 @@
 ## About the Project
-Object Detection : Identify objects, locations, activities, animal species, products, and more. Face Detection : Detects faces and facial landmarks. Barcode Detection : Scan and process barcodes and QR codes.
+- Object Detection : Identify objects, locations, activities, animal species, products, and more. 
+- Face Detection : Detects faces and facial landmarks. 
+- Barcode Detection : Scan and process barcodes and QR codes.
 
 ## Contributing
 1. Fork it!
