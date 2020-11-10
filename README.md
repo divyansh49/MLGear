@@ -12,4 +12,4 @@
 
 ## Screenshots
 
-<img src="https://github.com/divyansh49/MLGear/blob/master/Screenshots/MainActivity.jpg" alt="MainActivity" width="250" height="400"> <img src="https://github.com/divyansh49/MLGear/blob/master/Screenshots/BarcodeDetectionActivity.jpg" alt="BarcodeDetectionActivity" width="250" height="400"> <img src="https://github.com/divyansh49/MLGear/blob/master/Screenshots/ImageDetectionActivity.jpg" alt="ImageDetectionActivity" width="250" height="400">
+<img src="https://github.com/divyansh49/MLGear/blob/master/Screenshots/MainActivity.jpg" alt="MainActivity" width="250" height="400"> <img src="https://github.com/divyansh49/MLGear/blob/master/Screenshots/BarcodeDetectionActivity.jpg" alt="BarcodeDetectionActivity" width="250" height="400"> <img src="https://github.com/divyansh49/MLGear/blob/master/Screenshots/ImageDetectionActivity.jpg" alt="ImageDetectionActivity" width="250" height="400"> <img src="https://github.com/divyansh49/MLGear/blob/master/Screenshots/FaceDetectionActivity.jpg" alt="FaceDetectionActivity" width="250" height="400">
